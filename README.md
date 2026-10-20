@@ -2,7 +2,7 @@
  
 Simulação de uma estação meteorológica no **Tinkercad Circuits**, baseada no projeto "Estação Meteorológica IoT" do *Kit Iniciante IoT v2.3 – Casa da Robótica*. O circuito mede temperatura, umidade, pressão atmosférica, concentração de gás/fumaça e presença de chuva, e exibe os dados no Monitor Serial.
  
-> **Simulação no Tinkercad:** _cole aqui o link do seu circuito_
+> **Simulação no Tinkercad:** https://www.tinkercad.com/things/3EiBCuBfALG-estacao-metereologica
  
 ---
  
@@ -137,8 +137,3 @@ Nos testes realizados:
 ## Referência
  
 *Kit Iniciante IoT v2.3 – Casa da Robótica*, projeto "NodeMCU ESP8266 e IoT: Desenvolvendo uma Estação Meteorológica".
-
-
-## Link do circuito no tinkercad
- 
-https://www.tinkercad.com/things/3EiBCuBfALG-estacao-metereologica
